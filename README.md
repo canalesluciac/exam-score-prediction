@@ -25,7 +25,7 @@ Availability: November 16, 2025
 ## ✅ Project Status
 ✔️ Complete and well-documented Exploratory Data Analysis (EDA).  
 📊 Insights derived from exploratory analysis.  
-✔️ Project approved on the first submission.  
+✔️ Project approved on the first submission - [Google Colab Notebook](https://colab.research.google.com/drive/1ZiN-_EfIaj41ixS-hQFlmU7AinuF-vfk#scrollTo=xHzWSONRPJeg).  
 
 ## 📫 Contact
 Lucia Constanza Canales  
