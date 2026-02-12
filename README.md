@@ -15,6 +15,7 @@ The project includes:
 ## 🗃️ Repository Contents
 * `ProyectoParteIII_Canales.ipynb` → Main notebook containing the EDA (exploratory analy) and visualizations.
 * `README.md` → This file contains a general description of the project.
+* `Exam_Score_Prediction.csv` → .CSV database, obtained from [Kaggle](https://www.kaggle.com/datasets/kundanbedmutha/exam-score-prediction-dataset/data)
 
 ## 📑 Dataset
 Source: [Exam Score Predictions - Kaggle](https://www.kaggle.com/datasets/kundanbedmutha/exam-score-prediction-dataset/data)  
